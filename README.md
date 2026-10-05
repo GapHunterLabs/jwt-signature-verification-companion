@@ -39,10 +39,12 @@ Open any Java/Kotlin file that parses JWTs with jjwt. A `Jwts.parser()`
 chain ending in the plain `parse(...)` call shows a warning icon;
 `parseClaimsJws`/`parseSignedClaims`/`parsePlaintextJws` stay clean.
 
-## Enterprise / Team Licensing
+## Support
 
-Need enterprise features, custom rules, or team licensing? Contact us at
-**gaphunterlabs@gmail.com**.
+- **Bugs and feature requests:** [GitHub Issues](https://github.com/GapHunterLabs/jwt-signature-verification-companion/issues)
+- **Questions, or custom rules for a team's codebase:** **gaphunterlabs@gmail.com**
+- **Security vulnerabilities:** report privately as described in [SECURITY.md](SECURITY.md), not in a public issue.
+- **Privacy and network behavior:** [PRIVACY.md](PRIVACY.md)
 
 ## Development
 
